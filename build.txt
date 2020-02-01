@@ -1,3 +1,4 @@
-displayName = StartWithAStarterBag
-author = Lemmy
-version = 0.1
+displayName = Start with a Starter Bag
+author = Lemmy, GoodPro712
+version = 1.0
+modReferences = GoodProLib@0.2
