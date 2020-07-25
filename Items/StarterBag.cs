@@ -41,6 +41,7 @@ namespace StartWithAStarterBag.Items
 			player.QuickSpawnItem(ItemID.Wood, Main.rand.Next(20, 100));
 			player.QuickSpawnItem(ItemID.ThrowingKnife, 200);
 			player.QuickSpawnItem(ItemID.RecallPotion, 5);
+			player.QuickSpawnItem(ItemID.LifeCrystal, 2);
 		}
 	}
 }
