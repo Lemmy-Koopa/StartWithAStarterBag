@@ -4,8 +4,6 @@ namespace StartWithAStarterBag
 {
 	public class StartWithAStarterBag : Mod
 	{
-		public StartWithAStarterBag()
-		{
-		}
+		public StartWithAStarterBag() { }
 	}
 }

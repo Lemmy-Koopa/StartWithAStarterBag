@@ -9,21 +9,17 @@ namespace StartWithAStarterBag.Items
 	{
 		public override void SetStaticDefaults()
 		{
-			Tooltip.SetDefault("Right click for items");
+			Tooltip.SetDefault("Right click for items!");
 		}
 
 		public override void SetDefaults()
 		{
-			item.width = 20;
-			item.height = 20;
-			item.rare = 2;
+			item.width = 28;
+			item.height = 32;
+			item.rare = ItemRarityID.Expert;
 		}
-
-		public override bool CanRightClick()
-		{
-			return true;
-		}
-
+		public override bool CanRightClick() => true;
+		
 		public override void RightClick(Player player)
 		{
 			player.QuickSpawnItem(ItemID.MiningPotion, Main.rand.Next(1, 3));
@@ -41,8 +37,9 @@ namespace StartWithAStarterBag.Items
 			player.QuickSpawnItem(ItemID.Wood, Main.rand.Next(20, 100));
 			player.QuickSpawnItem(ItemID.ThrowingKnife, 200);
 			player.QuickSpawnItem(ItemID.RecallPotion, 5);
-			player.QuickSpawnItem(ItemID.LifeCrystal, 3);
+			player.QuickSpawnItem(ItemID.LifeCrystal, 1);
 			player.QuickSpawnItem(ItemID.SlimeCrown);
+			player.QuickSpawnItem(ItemID.WoodenArrow, 200);
 		}
 	}
 }

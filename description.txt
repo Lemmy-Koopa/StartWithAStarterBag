@@ -1,1 +1,6 @@
-StartWithAStarterBag is a pretty cool mod, it does...this. Modify this file with a description of your mod.
+StartWithAStarterBag is a mod that will allow you to spawn with a starter bag at the begining fo the game which contains manny useful items to help you!
+
+
+Join My Discord => https://discord.gg/2rG5TsmsDX
+
+Update 9.0 -> Adds updated sprites and icons including a new effect when opening the bag!

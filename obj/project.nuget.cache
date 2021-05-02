@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B2qNzRc8v3rqaeYxZD4Vpdn0/8dshZwG87WCM1A9hPEXlKVFsOgV53+upJc3Oj0Di8r3rNRE5Q56WSvjrRGjNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Steve Arty\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\StartWithAStarterBag\\StartWithAStarterBag.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Steve Arty\\.nuget\\packages\\tmodloader.codeassist\\0.1.1\\tmodloader.codeassist.0.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

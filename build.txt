@@ -1,3 +1,6 @@
 displayName = StartWithAStarterBag
 author = Lemmy
-version = 0.1
+version = 0.9
+homepage = https://discord.gg/2rG5TsmsDX
+hideCode = true
+hideResources = true
